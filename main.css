@@ -1292,7 +1292,7 @@
 		-ms-flex-direction: column;
 		flex-direction: column;
 		padding: 8em 0 6em 0;
-		background-image: url("https://4.top4top.net/p_1322ubbi11.jpg");
+		background-image: url:"https://4.top4top.net/p_1322ubbi11.jpg";
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;
